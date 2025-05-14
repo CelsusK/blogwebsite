@@ -1,4 +1,4 @@
-##My Colorful Blog Overview##
+**My Colorful Blog Overview**
 
 My Colorful Blog is a website designed to share thoughts, ideas, and expertise on a variety of topics, with a focus on visual appeal and engaging content.
 
